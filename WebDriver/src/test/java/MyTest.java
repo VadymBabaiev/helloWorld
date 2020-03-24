@@ -13,7 +13,7 @@ public class MyTest {
     private static final String URL = "http://www.google.com";
     private static final String INPUT = "q";
     private static final String SEARCH = "Selenium";
-    private static final String ACTUAL = "SeleniumHQ Browser Automation";
+    private static final String ACTUAL = "Selenium — Вікіпедія";
     private static final String FIRST_LINK = "(//a//h3)[1]";
 
     @BeforeTest
