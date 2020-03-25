@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebDriver/WebDriver.iml" filepath="$PROJECT_DIR$/WebDriver/WebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNgJunit/epam.iml" filepath="$PROJECT_DIR$/TestNgJunit/epam.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/helloWorld.iml" filepath="$PROJECT_DIR$/.idea/helloWorld.iml" />
     </modules>
   </component>

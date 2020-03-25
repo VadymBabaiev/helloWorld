@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WebDriver" />
+        <module name="epam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="epam" target="8" />
       <module name="WebDriver" target="8" />
     </bytecodeTargetLevel>
   </component>
